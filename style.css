@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    padding: 10px 0; 
+    border: 1px solid black;
+    color: blue;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+p{
+    text-align: justify;
+    max-width: 600px;
+    width: fit-content;
+    border: 1px solid yellow;
+    color: black;
+    font-size: 17px;
+}
+.video{
+    width: calc(100%-100px);
+    margin: auto;
+    height: 500px;
+    border-radius: 20px;
+}
